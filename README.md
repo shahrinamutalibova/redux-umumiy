@@ -8,3 +8,4 @@
 # Portfolio-redux
 # landingpage
 # landingpage
+# redux-umumiy
